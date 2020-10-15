@@ -15,3 +15,8 @@ My name is  Irina Ravelonarivo. I'm a Full-Stack Javacript developer. I love cod
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=dc382d)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2496ED)
+
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelonarivo)](https://github.com/anuraghazra/github-readme-stats)
+[![Irina's github stats](https://github-readme-stats.vercel.app/api?username=ravelonarivo)](https://github.com/anuraghazra/github-readme-stats)
