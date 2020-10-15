@@ -7,6 +7,7 @@ My name is  Irina Ravelonarivo. I'm a Full-Stack Javacript Developer. I love cod
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078d6)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=fcc624)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=4eaa25)
+![](https://img.shields.io/badge/Editor-SublimeText-informational?style=flat&logo=Sublime-Text&logoColor=white&color=ff9800)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=f7df1e)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61dafb)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=000000)
