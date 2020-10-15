@@ -11,7 +11,7 @@ My name is  Irina Ravelonarivo. I'm a Full-Stack Javacript Developer. I love cod
 ![javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=f7df1e)
 ![react](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61dafb)
 ![next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=000000)
-![node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
+![node.js](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
 ![git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=f05032)
 ![postgresql](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
 ![redis](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=dc382d)
