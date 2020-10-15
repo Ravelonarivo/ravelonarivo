@@ -1,5 +1,7 @@
-<!-- [![Header](https://raw.githubusercontent.com/ravelonarivo/ravelonarivo/main/header.jpg "Header")](https://some-url.dev/) -->
-<h1 align="center">Hi there 👋</h1>
+<!-- ![Header](https://raw.githubusercontent.com/ravelonarivo/ravelonarivo/main/header.jpg) -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=61dafb&height=350&section=header&text=Hi%20there%20👋&fontColor=ffffff&fontSize=80)
+
+<!-- <h1 align="center">Hi there 👋</h1> -->
 
 My name is  Irina Ravelonarivo. I'm a Full-Stack Javacript Developer. I love coding, learning new skills, embracing new challenges. Currently working on my personal project ToRIKo.
 
