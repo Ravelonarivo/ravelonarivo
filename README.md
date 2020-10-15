@@ -1,5 +1,5 @@
 <!-- ![Header](https://raw.githubusercontent.com/ravelonarivo/ravelonarivo/main/header.jpg) -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=5094f0&height=300&section=header&text=Hi%20there%20👋&fontColor=ffffff&fontSize=80&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=5094f0&height=300&section=header&text=Hi%20there%20👋&fontColor=ffffff&fontSize=70&fontAlignY=35)
 
 <!-- <h1 align="center">Hi there 👋</h1> -->
 
