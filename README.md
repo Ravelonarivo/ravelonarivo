@@ -18,5 +18,5 @@ My name is  Irina Ravelonarivo. I'm a Full-Stack Javacript Developer. I love cod
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelonarivo&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Irina's github stats](https://github-readme-stats.vercel.app/api?username=ravelonarivo&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelonarivo&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Irina's github stats](https://github-readme-stats.vercel.app/api?username=ravelonarivo&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
