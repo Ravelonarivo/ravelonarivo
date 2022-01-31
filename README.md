@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=5094f0&height=200&section=header&text=Hi%20there%20👋&fontColor=ffffff&fontSize=70)
 
-My name is  Irina Ravelonarivo. I'm a Full-Stack Javacript Developer. I love coding, learning new skills, embracing new challenges. Currently working on my personal project ToRIKo.
+My name is  Irina Ravelonarivo. I'm a Full-Stack Javacript Developer. I love coding, learning new skills, embracing new challenges.
 
 ## Technologies & Tools 
 
